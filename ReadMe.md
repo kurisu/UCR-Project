@@ -105,7 +105,7 @@ imputation methods.
 
 <ins> Web resources </ins>
 
-- [NACJD: Uniform Crime Reporting Program](https://www.icpsr.umich.edu/web/pages/NACJD/guides/ucr.html). Overview of UCR data, including agency-, county- and incident-level data.
+- [NACJD: Uniform Crime Reporting Program](https://www.icpsr.umich.edu/web/NACJD/cms/4819). Overview of UCR data, including agency-, county- and incident-level data.
 - [FBI UCR Landing Page](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr). FBI related information on the UCR program.
 - [Uniform Crime Reporting Handbook](https://ucr.fbi.gov/additional-ucr-publications/ucr_handbook.pdf). Comprehensive handbook issued by the DOJ that
 provides historical background of the program, offense classification, and rules that agencies are expected to follow when inputting data.
